@@ -323,11 +323,6 @@ h6 {
       padding: 1% 1%;
    }
 
-   .logo {
-      width: 100%;
-      padding: var(--padding) var(--padding);
-   }
-
    .content {
       flex-direction: row;
    }
